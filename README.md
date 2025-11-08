@@ -131,7 +131,7 @@ Then, the extracted text is sent to **Gemini**, which generates detailed explana
 ![IMG_20251108_162527 1](https://github.com/user-attachments/assets/3a75343d-de99-4514-a2a1-b1afa7c9f47a)
 
 
-**AI Models-Requriment:**
+# **AI Models-Requriment:**
 
 1.Embedding Model:arvindcreatrix/bge-baes-my-qna-model (SentenceTransformer)
 
