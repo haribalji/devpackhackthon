@@ -40,7 +40,9 @@ Students with dyslexia face challenges in reading, note-taking, and organizing s
 
 **o Users fill in the required signup details to register and gain authorized access to the platform.
 Returning users can log in using their credentials to securely access their account.**
- 
+
+ <img width="1920" height="923" alt="image" src="https://github.com/user-attachments/assets/63cdaf24-dc6e-441a-b0e4-4b366f60145a" />
+
 
 <img width="873" height="522" alt="image" src="https://github.com/user-attachments/assets/d2621658-382a-4987-ad70-5cfb298a7c3f" />
 
