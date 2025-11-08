@@ -82,7 +82,7 @@ Students can use the checklist tracker to monitor their learning progress, store
 
 
 
-**Amin Panel:**
+**Admin Panel:**
 o If you log in with an admin account, a separate Admin button will appear in the navigation bar. Inside it, you can manage the users of the product.
 ![IMG_20251108_172222 1](https://github.com/user-attachments/assets/2010b8b0-4a9b-41e4-986a-f79a1f3ad8ad)
 
@@ -144,6 +144,86 @@ Then, the extracted text is sent to **Gemini**, which generates detailed explana
 
 
 
+
+
+⚙️ Local Setup
+
+Follow the steps below to run the project locally:
+
+Clone the repository
+
+git clone https://github.com/yourusername/your-repo-name.git
+
+
+Open the notes folder in your terminal
+
+cd notes
+
+
+Install all necessary frontend packages
+
+npm install
+
+
+Run the frontend
+
+npm start
+
+
+Open another terminal and navigate to the backend folder
+
+cd backend
+
+
+Install all necessary backend packages
+
+npm install
+
+
+Start the backend server
+
+node index.js
+
+
+or (for auto-reload during development):
+
+nodemon index.js
+
+
+In a new terminal, start the RAG (AI) FastAPI server
+
+uvicorn rag_api:app --reload
+
+
+Then open another terminal, navigate to the backend folder again
+
+cd backend
+
+
+Run the Python application
+
+python app.py
+
+ After successful setup
+
+Frontend: http://localhost:3000
+
+Node.js backend: http://localhost:5000
+
+FastAPI (AI backend): http://127.0.0.1:8000
+
+
+
+
+
+
+
+
+
+
+
+
+
 **Local Setup:**
 Local Setup:
 
@@ -161,6 +241,10 @@ Local Setup:
 
 7. Start the backend server with: node index.js or nodemon index.js
 
-8. Open another terminal, navigate to the folder containing rag_core.py, and run the following command:
+8. Open another terminal, navigate to the folder backend, and run the following command:
 
 uvicorn rag_api:app --reload
+
+9.Then open another terminal and do the cd backend
+
+10.pyhton app.py//rurn this command
