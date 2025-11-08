@@ -143,6 +143,49 @@ Then, the extracted text is sent to **Gemini**, which generates detailed explana
 
 
 
+# Tech Stack
+
+React.js
+
+Node.js
+
+Express.js
+
+FastAPI
+
+Uvicorn
+
+Python
+
+ChromaDB
+
+Sentence Transformers
+
+Gemini 2.0 Flash / Llama 3.1
+
+PyPDF
+
+JWT (JSON Web Token)
+
+dotenv
+
+CSS
+
+ESLint
+
+Babel
+
+npm
+
+#  Hosting Platforms
+
+Frontend: Vercel
+
+Backend (Node.js): Render
+
+
+
+
 
 
 
