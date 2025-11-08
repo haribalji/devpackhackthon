@@ -189,7 +189,7 @@ Backend (Node.js): Render
 
 
 
-⚙️ Local Setup
+# ⚙️ Local Setup
 
 Follow the steps below to run the project locally:
 
