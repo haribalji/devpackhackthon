@@ -107,6 +107,24 @@ Then, the extracted text is sent to **Gemini**, which generates detailed explana
 
 
 **RAG-Based Q&A:**
+**flow-control**
+
+1.User uploads a PDF → saved as uploaded.pdf.
+
+2.Text extracted → split into chunks.
+
+3.Each chunk → converted to embeddings (SentenceTransformer).
+
+4.Embeddings + text → stored in ChromaDB.
+
+5.User asks a question → question embedded → top relevant chunks retrieved.
+
+6.Retrieved context + question → sent to Llama-3.1 model (via HuggingFace).
+
+7.Model generates and returns clear, formatted answer.
+
+
+
 ![IMG_20251108_162527 1](https://github.com/user-attachments/assets/3a75343d-de99-4514-a2a1-b1afa7c9f47a)
 
 
