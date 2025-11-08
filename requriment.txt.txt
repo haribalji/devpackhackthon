@@ -1,0 +1,23 @@
+# --- Web Framework ---
+fastapi
+uvicorn
+pydantic
+
+# --- RAG and NLP ---
+chromadb
+
+#sentence-transformers
+
+langchain-text-splitters
+pypdf
+numpy
+flask_cors
+# --- LLM Access (Hugging Face / OpenAI / Google) ---
+openai
+google-generativeai
+
+# --- Utilities ---
+python-dotenv
+transformers
+torch
+python-multipart
