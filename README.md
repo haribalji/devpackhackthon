@@ -7,7 +7,7 @@ Students with dyslexia face challenges in reading, note-taking, and organizing s
 # **Live final product demo:** https://drive.google.com/file/d/18h0yIBpIU003NBAimwQfZ2Io8DuSSd_A/view?usp=sharing
 
 
-**PPT Link:** https://docs.google.com/presentation/d/1v12mTbMsu4M3m9RJAwKvaEHEcTtNsHfA/edit?usp=drive_link&ouid=112859881598754786273&rtpof=true&sd=true
+# **PPT Link:** https://docs.google.com/presentation/d/1v12mTbMsu4M3m9RJAwKvaEHEcTtNsHfA/edit?usp=drive_link&ouid=112859881598754786273&rtpof=true&sd=true
 
 
 # **Solutions:**
