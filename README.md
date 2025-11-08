@@ -1,16 +1,16 @@
-Introduction:
+# Introduction:
 
 Students with dyslexia face challenges in reading, note-taking, and organizing study materials, reducing learning efficiency. Our AI-driven solution enhances accessibility, comprehension, and organization through intelligent automation.
 
-**Live Link:** https://mynotefrontendserver.vercel.app/
+# **Live Link:** https://mynotefrontendserver.vercel.app/
 
-**Live final product demo:** https://drive.google.com/file/d/18h0yIBpIU003NBAimwQfZ2Io8DuSSd_A/view?usp=sharing
+# **Live final product demo:** https://drive.google.com/file/d/18h0yIBpIU003NBAimwQfZ2Io8DuSSd_A/view?usp=sharing
 
 
 **PPT Link:** https://docs.google.com/presentation/d/1v12mTbMsu4M3m9RJAwKvaEHEcTtNsHfA/edit?usp=drive_link&ouid=112859881598754786273&rtpof=true&sd=true
 
 
-**Solutions:**
+# **Solutions:**
 
 •	**OCR for Dyslexia Support:** Converts handwritten or printed notes into editable digital text for easier reading and correction.
 
@@ -25,18 +25,18 @@ Students with dyslexia face challenges in reading, note-taking, and organizing s
 
 
 
-**Level-1 implementation:** 
+# **Level-1 implementation:** 
 
 
 
-**Demo Link 1:** https://drive.google.com/file/d/1LFvg53bLFu_JIMKHBpWEVifUhuSztUQP/view?usp=sharing
+# **Demo Link 1:** https://drive.google.com/file/d/1LFvg53bLFu_JIMKHBpWEVifUhuSztUQP/view?usp=sharing
 
 
 
 
 
 
-**Smart Note Organization:**
+# **Smart Note Organization:**
 
 **o Users fill in the required signup details to register and gain authorized access to the platform.
 Returning users can log in using their credentials to securely access their account.**
@@ -76,18 +76,18 @@ Students can use the checklist tracker to monitor their learning progress, store
 
 
 
-**level -2 implementation:**
+# **level -2 implementation:**
 
-**Demo Link 2:**https://drive.google.com/file/d/1wvKPKW2f9btikTfEfpWbsiDUkjgQUuff/view?usp=sharing
+# **Demo Link 2:**https://drive.google.com/file/d/1wvKPKW2f9btikTfEfpWbsiDUkjgQUuff/view?usp=sharing
 
 
 
-**Admin Panel:**
+# **Admin Panel:**
 o If you log in with an admin account, a separate Admin button will appear in the navigation bar. Inside it, you can manage the users of the product.
 ![IMG_20251108_172222 1](https://github.com/user-attachments/assets/2010b8b0-4a9b-41e4-986a-f79a1f3ad8ad)
 
 
-**AI Summarization & TTS:**
+# **AI Summarization & TTS:**
 
 We used **gemini-2.0-flash** to generate simplified and concise summaries tailored for individuals with dyslexia. By carefully crafting prompts, the model rephrases complex text into easier, dyslexia-friendly. This summarized content is then converted into speech using a TTS engine, available in both **Tamil and English** Text to Speech, helping users comprehend and retain information more effectively.
 
@@ -95,7 +95,7 @@ We used **gemini-2.0-flash** to generate simplified and concise summaries tailor
 
 
 
-**OCR for Dyslexia Support:**
+# **OCR for Dyslexia Support:**
 
 The system integrates OCR technology to convert handwritten or printed notes into editable, dyslexia-friendly digital text. Students can upload or capture images of their notes, which are processed using two deep learning models:
 
@@ -109,7 +109,7 @@ Then, the extracted text is sent to **Gemini**, which generates detailed explana
 
 
 
-**RAG-Based Q&A:**
+# **RAG-Based Q&A:**
 **flow-control**
 
 1.User uploads a PDF → saved as uploaded.pdf.
@@ -151,9 +151,9 @@ Then, the extracted text is sent to **Gemini**, which generates detailed explana
 Follow the steps below to run the project locally:
 
 # 1. Clone the repository
-git clone https://github.com/yourusername/your-repo-name.git
+git clone https://github.com/haribalji/devpackhackthon.git
 
-# 2. Navigate to the notes folder
+# 2. Navigate to the frontend folder
 cd frontend
 
 # 3. Install all necessary frontend packages
@@ -173,16 +173,19 @@ node index.js
 # (or use nodemon for auto-reload)
 nodemon index.js
 
-# 8. Open another terminal and start the RAG (AI) FastAPI server
+# 8.install dependencies using:
+pip install -r requirements.txt
+
+# 9. Open another terminal and start the RAG (AI) FastAPI server
 uvicorn rag_api:app --reload
 
-# 9. Open another terminal, navigate to backend again
+# 10. Open another terminal, navigate to backend again
 cd backend
 
-# 10. Run the Python application
+# 11. Run the Python application
 python app.py
 
-✅ After Setup
+After Setup
 
 Frontend: http://localhost:3000
 
@@ -198,29 +201,3 @@ FastAPI (AI Backend): http://127.0.0.1:8000
 
 
 
-
-
-**Local Setup:**
-Local Setup:
-
-1. Clone this repository.
-
-2. Open the notes folder in the terminal.
-
-3. Install all necessary packages using: npm i
-
-4. Run the frontend using: npm start
-
-5. Open another terminal and navigate to the backend folder.
-
-6. Install all necessary packages using: npm i
-
-7. Start the backend server with: node index.js or nodemon index.js
-
-8. Open another terminal, navigate to the folder backend, and run the following command:
-
-uvicorn rag_api:app --reload
-
-9.Then open another terminal and do the cd backend
-
-10.pyhton app.py//rurn this command
