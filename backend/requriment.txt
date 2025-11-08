@@ -20,4 +20,5 @@ google-generativeai
 python-dotenv
 transformers
 torch
+
 python-multipart
