@@ -3,9 +3,13 @@ Introduction:
 Students with dyslexia face challenges in reading, note-taking, and organizing study materials, reducing learning efficiency. Our AI-driven solution enhances accessibility, comprehension, and organization through intelligent automation.
 
 **Live Link:** https://mynotefrontendserver.vercel.app/
+
 **Demo Link 1:** https://drive.google.com/file/d/1LFvg53bLFu_JIMKHBpWEVifUhuSztUQP/view?usp=sharing
+
 **Demo Link 2:**
+
 **PPT Link:** https://docs.google.com/presentation/d/1v12mTbMsu4M3m9RJAwKvaEHEcTtNsHfA/edit?usp=drive_link&ouid=112859881598754786273&rtpof=true&sd=true
+
 
 **Solutions:**
 
@@ -65,6 +69,7 @@ We used **gemini-2.0-flash** to generate simplified and concise summaries tailor
 
 
 **OCR for Dyslexia Support:**
+
 The system integrates OCR technology to convert handwritten or printed notes into editable, dyslexia-friendly digital text. Students can upload or capture images of their notes, which are processed using two deep learning models:
 
 CRAFT (Character Region Awareness for Text Detection): Detects text areas and links characters into words using region and affinity scores.
