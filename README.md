@@ -4,7 +4,7 @@ Students with dyslexia face challenges in reading, note-taking, and organizing s
 
 **Live Link:** https://mynotefrontendserver.vercel.app/
 
-**Demo Link 1:** https://drive.google.com/file/d/1LFvg53bLFu_JIMKHBpWEVifUhuSztUQP/view?usp=sharing
+
 
 **Demo Link 2:**
 
@@ -20,6 +20,19 @@ Students with dyslexia face challenges in reading, note-taking, and organizing s
 •	**RAG-Based Q&A**: Provides accurate, context-aware answers from stored notes for interactive learning.
 
 •	**Smart Note Organization:** Automatically categorizes notes and adds checklists to track study progress efficiently.
+
+
+
+
+
+
+•	**Level-1 implementation:** 
+
+
+
+**Demo Link 1:** https://drive.google.com/file/d/1LFvg53bLFu_JIMKHBpWEVifUhuSztUQP/view?usp=sharing
+
+
 
 
 
