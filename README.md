@@ -75,7 +75,7 @@ Students can use the checklist tracker to monitor their learning progress, store
 
 **level -2 implementation:**
 
-**Demo Link 2:**
+**Demo Link 2:**https://drive.google.com/file/d/1wvKPKW2f9btikTfEfpWbsiDUkjgQUuff/view?usp=sharing
 
 
 
@@ -109,6 +109,16 @@ Then, the extracted text is sent to **Gemini**, which generates detailed explana
 **RAG-Based Q&A:**
 ![IMG_20251108_162527 1](https://github.com/user-attachments/assets/3a75343d-de99-4514-a2a1-b1afa7c9f47a)
 
+
+**AI Models-Requriment**
+
+1.Embedding Model:arvindcreatrix/bge-baes-my-qna-model (SentenceTransformer)
+
+2. LLM:meta-llama/Llama-3.1-8B-Instruct:novita via HuggingFace router
+
+3. Generator:Gemini 2.0 Flash
+
+4. Vector DB:ChromaDB
 
 
 
