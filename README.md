@@ -150,69 +150,45 @@ Then, the extracted text is sent to **Gemini**, which generates detailed explana
 
 Follow the steps below to run the project locally:
 
-Clone the repository
-
+# 1. Clone the repository
 git clone https://github.com/yourusername/your-repo-name.git
 
+# 2. Navigate to the notes folder
+cd frontend
 
-Open the notes folder in your terminal
-
-cd notes
-
-
-Install all necessary frontend packages
-
+# 3. Install all necessary frontend packages
 npm install
 
-
-Run the frontend
-
+# 4. Run the frontend
 npm start
 
-
-Open another terminal and navigate to the backend folder
-
+# 5. Open another terminal and navigate to the backend folder
 cd backend
 
-
-Install all necessary backend packages
-
+# 6. Install all necessary backend packages
 npm install
 
-
-Start the backend server
-
+# 7. Start the backend server
 node index.js
-
-
-or (for auto-reload during development):
-
+# (or use nodemon for auto-reload)
 nodemon index.js
 
-
-In a new terminal, start the RAG (AI) FastAPI server
-
+# 8. Open another terminal and start the RAG (AI) FastAPI server
 uvicorn rag_api:app --reload
 
-
-Then open another terminal, navigate to the backend folder again
-
+# 9. Open another terminal, navigate to backend again
 cd backend
 
-
-Run the Python application
-
+# 10. Run the Python application
 python app.py
 
- After successful setup
+✅ After Setup
 
 Frontend: http://localhost:3000
 
-Node.js backend: http://localhost:5000
+Node.js Backend: http://localhost:5000
 
-FastAPI (AI backend): http://127.0.0.1:8000
-
-
+FastAPI (AI Backend): http://127.0.0.1:8000
 
 
 
