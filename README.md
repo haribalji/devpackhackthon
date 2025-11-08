@@ -2,20 +2,20 @@ Introduction:
 
 Students with dyslexia face challenges in reading, note-taking, and organizing study materials, reducing learning efficiency. Our AI-driven solution enhances accessibility, comprehension, and organization through intelligent automation.
 
-Solutions:
+**Solutions:**
 
-•	OCR for Dyslexia Support: Converts handwritten or printed notes into editable digital text for easier reading and correction.
+•	**OCR for Dyslexia Support:** Converts handwritten or printed notes into editable digital text for easier reading and correction.
 
-•	AI Summarization & TTS: Generates concise summaries and converts notes into Tamil or English audio for better understanding.
+•	**AI Summarization & TTS:** Generates concise summaries and converts notes into Tamil or English audio for better understanding.
 
-•	RAG-Based Q&A: Provides accurate, context-aware answers from stored notes for interactive learning.
+•	**RAG-Based Q&A**: Provides accurate, context-aware answers from stored notes for interactive learning.
 
-•	Smart Note Organization: Automatically categorizes notes and adds checklists to track study progress efficiently.
+•	**Smart Note Organization:** Automatically categorizes notes and adds checklists to track study progress efficiently.
 
 
 
-Users fill in the required signup details to register and gain authorized access to the platform.
-Returning users can log in using their credentials to securely access their account.
+**o Users fill in the required signup details to register and gain authorized access to the platform.
+Returning users can log in using their credentials to securely access their account.**
  
 
 <img width="873" height="522" alt="image" src="https://github.com/user-attachments/assets/d2621658-382a-4987-ad70-5cfb298a7c3f" />
@@ -24,16 +24,17 @@ Returning users can log in using their credentials to securely access their acco
 
 
 
-A Notes Management feature allows students to add, edit, and delete study notes efficiently
+**o A Notes Management feature allows students to add, edit, and delete study notes efficiently**
 
- <img width="940" height="654" alt="image" src="https://github.com/user-attachments/assets/5335ba21-a461-41cc-b7fc-bad636696c91" />
+ <img width="1011" height="751" alt="Screenshot 2025-11-08 150307" src="https://github.com/user-attachments/assets/0c23e6d5-0c98-4d60-9477-c0da725b55f1" />
 
 
-Students can enter their personal and academic details (Name, Class, Age) to create their profile.
+
+**o Students can enter their personal and academic details (Name, Class, Age) to create their profile.**
 <img width="1116" height="772" alt="Screenshot 2025-11-08 134737" src="https://github.com/user-attachments/assets/a55dbf1d-6e22-44c9-8700-2e38a35796e1" />
 
  
-Subjects are displayed dynamically based on the selected class.
+**o Subjects are displayed dynamically based on the selected class.**
 <img width="796" height="497" alt="image" src="https://github.com/user-attachments/assets/a79060e2-1127-4860-8ef4-e5316fa39741" />
 
  
@@ -41,5 +42,6 @@ Subjects are displayed dynamically based on the selected class.
 Each subject section provides important topic listings to support exam preparation.
 Students can use the checklist tracker to monitor their learning progress, store study documents by subject, download resources, record video lectures, and save voice notes for future reference.
  
- <img width="718" height="771" alt="Screenshot 2025-11-08 140302" src="https://github.com/user-attachments/assets/b358dfd0-b2b5-498f-932a-930896acf25f" />
+<img width="771" height="771" alt="image" src="https://github.com/user-attachments/assets/b109264b-2bae-4fdb-9448-a63d97300abf" />
+
 
