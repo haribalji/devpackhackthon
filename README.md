@@ -26,7 +26,7 @@ Students with dyslexia face challenges in reading, note-taking, and organizing s
 
 
 
-•	**Level-1 implementation:** 
+	**Level-1 implementation:** 
 
 
 
