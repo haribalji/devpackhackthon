@@ -6,7 +6,6 @@ Students with dyslexia face challenges in reading, note-taking, and organizing s
 
 
 
-**Demo Link 2:**
 
 **PPT Link:** https://docs.google.com/presentation/d/1v12mTbMsu4M3m9RJAwKvaEHEcTtNsHfA/edit?usp=drive_link&ouid=112859881598754786273&rtpof=true&sd=true
 
@@ -69,6 +68,15 @@ Each subject section provides important topic listings to support exam preparati
 Students can use the checklist tracker to monitor their learning progress, store study documents by subject, download resources, record video lectures, and save voice notes for future reference.
  
 <img width="771" height="771" alt="image" src="https://github.com/user-attachments/assets/b109264b-2bae-4fdb-9448-a63d97300abf" />
+
+
+
+
+
+**level -2 implementation:**
+
+**Demo Link 2:**
+
 
 
 **Amin Panel:**
