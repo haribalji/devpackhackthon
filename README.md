@@ -76,9 +76,9 @@ Students can use the checklist tracker to monitor their learning progress, store
 
 
 
-# **level -2 implementation:**
+# **level-2 implementation:**
 
-# **Demo Link 2:**https://drive.google.com/file/d/1wvKPKW2f9btikTfEfpWbsiDUkjgQUuff/view?usp=sharing
+# **Demo Link 2:** https://drive.google.com/file/d/1wvKPKW2f9btikTfEfpWbsiDUkjgQUuff/view?usp=sharing
 
 
 
