@@ -22,6 +22,8 @@ Students with dyslexia face challenges in reading, note-taking, and organizing s
 •	**Smart Note Organization:** Automatically categorizes notes and adds checklists to track study progress efficiently.
 
 
+
+
 **Smart Note Organization:**
 
 **o Users fill in the required signup details to register and gain authorized access to the platform.
@@ -68,6 +70,7 @@ We used **gemini-2.0-flash** to generate simplified and concise summaries tailor
 ![IMG_20251108_171043 1](https://github.com/user-attachments/assets/51653d10-1e7b-4ffa-b4c5-9ff44f3675d2)
 
 
+
 **OCR for Dyslexia Support:**
 
 The system integrates OCR technology to convert handwritten or printed notes into editable, dyslexia-friendly digital text. Students can upload or capture images of their notes, which are processed using two deep learning models:
@@ -84,7 +87,6 @@ Then, the extracted text is sent to **Gemini**, which generates detailed explana
 
 **RAG-Based Q&A:**
 ![IMG_20251108_162527 1](https://github.com/user-attachments/assets/3a75343d-de99-4514-a2a1-b1afa7c9f47a)
-
 
 
 
